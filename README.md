@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MasihMoafi
 - 👀 I’m interested in Leveraging AI to develop solutions to important problems, Reinforcement learning, AGI, etc.
 - 🌱 I’m currently learning RL, Transformers, U-nets, etc.
-- 💞️ I’m looking to collaborate on meaningful project.
+- 💞️ I’m looking to collaborate on meaningful projects.
 - 📫 You can reach me via email: masihmoafi12@gmail.com
 
 <!---
