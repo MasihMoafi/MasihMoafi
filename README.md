@@ -29,7 +29,7 @@
 
 • [Twitter](https://twitter.com/MasihMoafi1) • [Email](mailto:masihmoafi12@gmail.com) • 
 
-<img width="2212" height="2647" alt="image" src="https://github.com/user-attachments/assets/9e3447b1-333c-43b2-bbd1-f369ffde6cb1" />
+<img src="https://github.com/user-attachments/assets/9e3447b1-333c-43b2-bbd1-f369ffde6cb1" width="553" alt="image" />
 
 ---
 
