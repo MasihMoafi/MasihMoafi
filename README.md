@@ -29,7 +29,13 @@
 
 • [Twitter](https://twitter.com/MasihMoafi1) • [Email](mailto:masihmoafi12@gmail.com) • 
 
-<img src="https://github.com/user-attachments/assets/9e3447b1-333c-43b2-bbd1-f369ffde6cb1" width="553" alt="image" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/9e3447b1-333c-43b2-bbd1-f369ffde6cb1" 
+    alt="image" 
+    style="width: 25%; max-width: 200px; height: auto; border-radius: 8px;" 
+  />
+</p>
 
 ---
 
