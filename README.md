@@ -10,7 +10,7 @@
 - **[Eyes-Wide-Shut](https://github.com/MasihMoafi/Eyes-Wide-Shut)** - Red-teaming gpt-oss:20b (9⭐)
 
 ### 📚 Learning Resources
-- **[OpenCV Tutorial](https://github.com/MasihMoafi/OpenCV-Tutorial)** - Complete CV course (6⭐)
+- **[OpenCV Tutorial](https://github.com/MasihMoafi/OpenCV-Tutorial)** - Complete CV course (8⭐)
 - **[ML Exercises](https://github.com/MasihMoafi/ML-Exercises)** - University coursework
 
 ### 🔬 Research Projects
