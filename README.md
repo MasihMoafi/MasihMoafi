@@ -5,12 +5,12 @@
 ## 🚀 Featured Projects
 
 ### 🏆 Most Popular
-- **[A-Modular-Kingdom](https://github.com/MasihMoafi/A-Modular-Kingdom)** - Comprehensive MCP Host (18⭐)
-- **[Voice Commander](https://github.com/MasihMoafi/Voice-commander)** - Vocal Prompt Engineer (10⭐)
-- **[Eyes-Wide-Shut](https://github.com/MasihMoafi/Eyes-Wide-Shut)** - Red-teaming gpt-oss:20b (9⭐)
+- **[A-Modular-Kingdom](https://github.com/MasihMoafi/A-Modular-Kingdom)** - Comprehensive MCP Host (19⭐)
+- **[Voice Commander](https://github.com/MasihMoafi/Voice-commander)** - Vocal Prompt Engineer (11⭐)
+- **[Eyes-Wide-Shut](https://github.com/MasihMoafi/Eyes-Wide-Shut)** - Red-teaming gpt-oss:20b (10⭐)
 
 ### 📚 Learning Resources
-- **[OpenCV Tutorial](https://github.com/MasihMoafi/OpenCV-Tutorial)** - Complete CV course (8⭐)
+- **[OpenCV Tutorial](https://github.com/MasihMoafi/OpenCV-Tutorial)** - Complete CV course (9⭐)
 - **[ML Exercises](https://github.com/MasihMoafi/ML-Exercises)** - University coursework
 
 ### 🔬 Research Projects
