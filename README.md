@@ -17,7 +17,7 @@
 - **[Financial Market Analysis](https://github.com/MasihMoafi/Financial-Market-Analysis)** - Time-series + Transformers
 - **[Medical Image Segmentation](https://github.com/MasihMoafi/Medical-Image-Segmentation)** - U-Net architecture
 - **[Vocal Emotion Recognition](https://github.com/MasihMoafi/Vocal-Emotion-Recognition-)** - Speech analysis
-- **[AMR-Abstract-Text_Summarization](https://github.com/MasihMoafi/AMR-Parsing-Summarization)
+- **[AMR-Abstract-Text_Summarization](https://github.com/MasihMoafi/AMR-Parsing-Summarization)**
 ## 💻 Tech Stack
 
 **Languages:** Python  
