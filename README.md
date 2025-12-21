@@ -6,8 +6,8 @@
 
 ### 🏆 Most Popular
 - **[A-Modular-Kingdom](https://github.com/MasihMoafi/A-Modular-Kingdom)** - Comprehensive MCP Host (26⭐)
-- **[Voice Commander](https://github.com/MasihMoafi/Voice-commander)** - Vocal Prompt Engineer (12⭐)
-- **[Eyes-Wide-Shut](https://github.com/MasihMoafi/Eyes-Wide-Shut)** - Red-teaming gpt-oss:20b (12⭐)
+- **[Voice Commander](https://github.com/MasihMoafi/Voice-commander)** - Vocal Prompt Engineer (14⭐)
+- **[Eyes-Wide-Shut](https://github.com/MasihMoafi/Eyes-Wide-Shut)** - Red-teaming gpt-oss:20b (14⭐)
 
 ### 📚 Learning Resources
 - **[OpenCV Tutorial](https://github.com/MasihMoafi/OpenCV-Tutorial)** - Complete CV course (9⭐)
