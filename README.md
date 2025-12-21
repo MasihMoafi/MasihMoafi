@@ -5,7 +5,7 @@
 ## 🚀 Featured Projects
 
 ### 🏆 Most Popular
-- **[A-Modular-Kingdom](https://github.com/MasihMoafi/A-Modular-Kingdom)** - Comprehensive MCP Host (21⭐)
+- **[A-Modular-Kingdom](https://github.com/MasihMoafi/A-Modular-Kingdom)** - Comprehensive MCP Host (26⭐)
 - **[Voice Commander](https://github.com/MasihMoafi/Voice-commander)** - Vocal Prompt Engineer (12⭐)
 - **[Eyes-Wide-Shut](https://github.com/MasihMoafi/Eyes-Wide-Shut)** - Red-teaming gpt-oss:20b (12⭐)
 
