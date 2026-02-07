@@ -40,14 +40,6 @@ tech_stack = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasihMoafi&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasihMoafi&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ## 🌱 Currently Working On
 
 - 🥷 Building comprehensive ML learning resources (Ninja Neural Nets)
