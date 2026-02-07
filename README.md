@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-I'm passionate about making AI accessible and practical. I build tools that leverage cutting-edge AI/ML technologies and create educational resources to help others learn. My focus areas include computer vision, NLP, and developing modular AI systems.
+I'm passionate about making AI accessible and practical. I build tools that leverage cutting-edge AI/ML technologies. My focus areas include NLP, computer vision, and developing modular AI systems.
 
 ## 🚀 Featured Projects
 
@@ -28,22 +28,19 @@ I'm passionate about making AI accessible and practical. I build tools that leve
 
 ```python
 tech_stack = {
-    "languages": ["Python", "JavaScript"],
-    "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn"],
-    "dl_specializations": ["Transformers", "CNNs", "RNNs", "GANs"],
-    "computer_vision": ["OpenCV", "U-Net", "YOLO"],
-    "nlp": ["Hugging Face", "LLMs", "Pydantic"],
-    "tools": ["Jupyter", "Git", "Docker"],
-    "interests": ["Reinforcement Learning", "MLOps", "AI Agents"]
+    "languages": ["Python"],
+    "ml_frameworks": ["PyTorch"],
+    "dl_specializations": ["Transformers"],
+    "computer_vision": ["Vision Transformers"],
+    "tools": ["Git", "Docker", ...],
+    "interests": [RUST, Post-training"]
 }
 ```
 
-## 📊 GitHub Stats
-
 ## 🌱 Currently Working On
 
-- 🥷 Building comprehensive ML learning resources (Ninja Neural Nets)
-- 🤖 Developing modular AI agent systems
+- 🥷 Studying for my masters at IUT
+- 🤖 Developing modular AI agent system infrastructures 
 - 🔊 Exploring voice-controlled AI interfaces
 - 📚 Contributing to open-source AI/ML projects
 
