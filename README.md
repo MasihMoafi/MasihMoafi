@@ -17,8 +17,8 @@
 
 <br/><br/>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MasihMoafi1?style=social)](https://twitter.com/MasihMoafi1)
-[![Gmail](https://img.shields.io/badge/Gmail-masihmoafi12%40gmail.com-red?style=flat&logo=gmail)](mailto:masihmoafi12@gmail.com)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-@MasihMoafi1-black?style=flat&logo=twitter&logoColor=FA9E06&color=111111)](https://twitter.com/MasihMoafi1)
+[![Gmail](https://img.shields.io/badge/Gmail-masihmoafi12%40gmail.com-black?style=flat&logo=gmail&logoColor=FA9E06&color=111111)](mailto:masihmoafi12@gmail.com)
 
 </div>
 
@@ -44,8 +44,8 @@ tech_stack = {
     "ml_frameworks": ["PyTorch"],
     "dl_specializations": ["Transformers"],
     "computer_vision": ["Vision Transformers"],
-    "tools": ["Git", "Docker", ...],
-    "interests": [RUST, Post-training"]
+    "tools": ["Git", "Docker", "..."],
+    "interests": ["Rust", "Post-training"]
 }
 ```
 
@@ -60,10 +60,10 @@ tech_stack = {
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MasihMoafi1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masihmoafi12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MasihMoafi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masihmoafi1)
+[![Twitter](https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=twitter&logoColor=FA9E06&color=111111)](https://twitter.com/MasihMoafi1)
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=FA9E06&color=111111)](mailto:masihmoafi12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FA9E06&color=111111)](https://github.com/MasihMoafi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FA9E06&color=111111)](https://linkedin.com/in/masihmoafi1)
 
 </div>
 

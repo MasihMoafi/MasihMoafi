@@ -59,25 +59,29 @@
   <!-- Subtitle -->
   <text x="45" y="145" class="tech-text" font-size="13" font-weight="600" fill="#e0ab5b" letter-spacing="4">AI &amp; MACHINE LEARNING ENGINEER</text>
 
-  <!-- Digital Signature (Right Side) -->
-  <g transform="translate(520, 65)">
-    <!-- Masih -->
-    <!-- M -->
-    <path d="M 30,60 C 32,25 40,25 45,52 C 50,25 58,25 60,60" fill="none" stroke="#FA9E06" stroke-width="2.5" stroke-linecap="round" filter="url(#gold-glow)" />
-    <!-- asih -->
-    <path d="M 60,60 C 65,45 72,45 72,55 C 72,62 64,62 68,52 C 73,42 77,42 77,55 C 80,48 83,48 85,60 C 87,48 90,48 90,60 C 93,35 98,35 98,60 C 98,50 106,50 108,60" fill="none" stroke="#FA9E06" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gold-glow)" />
-    <!-- Dot for i in Masih -->
-    <circle cx="90" cy="42" r="1.5" fill="#FA9E06" filter="url(#gold-glow)" />
+  <!-- Modern Digital Signature Block (Right Side) -->
+  <g transform="translate(515, 60)">
+    <!-- Tech boundary box -->
+    <rect x="0" y="0" width="245" height="100" fill="#080808" stroke="#FA9E06" stroke-width="1.5" opacity="0.9" />
     
-    <!-- Moafi -->
-    <!-- M -->
-    <path d="M 125,60 C 127,25 135,25 140,52 C 145,25 153,25 155,60" fill="none" stroke="#FA9E06" stroke-width="2.5" stroke-linecap="round" filter="url(#gold-glow)" />
-    <!-- oafi -->
-    <path d="M 155,60 C 160,45 168,45 168,55 C 168,62 160,62 165,52 C 170,42 175,42 175,55 C 180,25 185,25 185,75 C 185,62 192,48 192,60 C 195,48 198,48 198,60" fill="none" stroke="#FA9E06" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gold-glow)" />
-    <!-- Dot for i in Moafi -->
-    <circle cx="192" cy="42" r="1.5" fill="#FA9E06" filter="url(#gold-glow)" />
+    <!-- Accent corner brackets inside the box -->
+    <path d="M 0,10 L 0,0 L 10,0" fill="none" stroke="#FA9E06" stroke-width="2" />
+    <path d="M 245,10 L 245,0 L 235,0" fill="none" stroke="#FA9E06" stroke-width="2" />
+    <path d="M 0,90 L 0,100 L 10,100" fill="none" stroke="#FA9E06" stroke-width="2" />
+    <path d="M 245,90 L 245,100 L 235,100" fill="none" stroke="#FA9E06" stroke-width="2" />
     
-    <!-- Underline flourish -->
-    <path d="M 25,68 Q 120,75 210,65 Q 220,63 190,78 Q 110,90 45,80" fill="none" stroke="#FA9E06" stroke-width="1.5" stroke-linecap="round" filter="url(#gold-glow)" opacity="0.8" />
+    <!-- Grid overlay inside box -->
+    <line x1="5" y1="5" x2="240" y2="5" stroke="#FA9E06" stroke-width="1" opacity="0.3" />
+    
+    <!-- Info Rows -->
+    <text x="15" y="24" class="tech-text" font-size="9" font-weight="bold" fill="#FA9E06" letter-spacing="1.5" filter="url(#gold-glow)">SIG_ID: MM_REPLICANT.0x99</text>
+    <line x1="15" y1="32" x2="230" y2="32" stroke="#FA9E06" stroke-width="0.5" opacity="0.3" />
+    
+    <text x="15" y="47" class="tech-text" font-size="9" fill="#e0ab5b" letter-spacing="1">HOLDER : MASIH MOAFI</text>
+    <text x="15" y="62" class="tech-text" font-size="9" fill="#e0ab5b" letter-spacing="1">DEPT   : AI_INFRASTRUCTURE</text>
+    <text x="15" y="77" class="tech-text" font-size="9" fill="#e0ab5b" letter-spacing="1">SIG_KEY: 9e3447b1...333c</text>
+    
+    <!-- Verified Status -->
+    <text x="15" y="91" class="tech-text" font-size="8" fill="#FA9E06" opacity="0.8" letter-spacing="0.5">[ STATUS: VERIFIED_IDENTITY ]</text>
   </g>
 </svg>
