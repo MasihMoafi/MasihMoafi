@@ -13,10 +13,12 @@
   </a>
 </p>
 
+*“However vast the darkness, we must supply our own light.”*
+
+<br/><br/>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/MasihMoafi1?style=social)](https://twitter.com/MasihMoafi1)
-[![GitHub followers](https://img.shields.io/github/followers/MasihMoafi?style=social)](https://github.com/MasihMoafi)
 [![Gmail](https://img.shields.io/badge/Gmail-masihmoafi12%40gmail.com-red?style=flat&logo=gmail)](mailto:masihmoafi12@gmail.com)
-[![Email](https://img.shields.io/badge/Email-m.moafi%40el.iut.ac.ir-blue?style=flat&logo=maildotru)](mailto:m.moafi@el.iut.ac.ir)
 
 </div>
 
@@ -60,7 +62,6 @@ tech_stack = {
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MasihMoafi1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masihmoafi12@gmail.com)
-[![Academic Email](https://img.shields.io/badge/Email-0052CC?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:m.moafi@el.iut.ac.ir)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MasihMoafi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masihmoafi1)
 
