@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 45" width="200" height="45">
+  <defs>
+    <!-- Glow filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    .btn-bg {
+      fill: #060606;
+      stroke: #FA9E06;
+      stroke-width: 1.5;
+    }
+    .btn-text {
+      font-family: 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 11px;
+      font-weight: bold;
+      fill: #FA9E06;
+      letter-spacing: 2px;
+      text-anchor: middle;
+    }
+    .accent-corner {
+      fill: #FA9E06;
+    }
+  </style>
+  <rect x="2" y="2" width="196" height="41" class="btn-bg" />
+  
+  <!-- Tech corners inside the button -->
+  <rect x="5" y="5" width="4" height="4" class="accent-corner" />
+  <rect x="191" y="5" width="4" height="4" class="accent-corner" />
+  <rect x="5" y="36" width="4" height="4" class="accent-corner" />
+  <rect x="191" y="36" width="4" height="4" class="accent-corner" />
+  
+  <text x="100" y="26" class="btn-text" filter="url(#glow)">[ VISIT WEBSITE ]</text>
+</svg>
