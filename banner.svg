@@ -61,15 +61,6 @@
 
   <!-- Digital Signature (Right Side) -->
   <g transform="translate(520, 65)">
-    <!-- Tech boundary for signature -->
-    <path d="M 0,10 L 0,0 L 10,0" fill="none" stroke="#FA9E06" stroke-width="1" opacity="0.4" />
-    <path d="M 230,10 L 230,0 L 220,0" fill="none" stroke="#FA9E06" stroke-width="1" opacity="0.4" />
-    <path d="M 0,80 L 0,90 L 10,90" fill="none" stroke="#FA9E06" stroke-width="1" opacity="0.4" />
-    <path d="M 230,80 L 230,90 L 220,90" fill="none" stroke="#FA9E06" stroke-width="1" opacity="0.4" />
-    
-    <!-- Label -->
-    <text x="10" y="15" class="tech-text" font-size="8" fill="#FA9E06" opacity="0.4" letter-spacing="1">SIGN_AUTH: SECURE_KEY_256</text>
-    
     <!-- Hand-drawn legible cursive signature paths -->
     <!-- Masih -->
     <path d="M 25,60 
