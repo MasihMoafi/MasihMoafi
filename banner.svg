@@ -1,18 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Masih Moafi — AI and machine learning engineer">
-  <rect x="1" y="1" width="1198" height="318" rx="30" fill="#121212" stroke="#2e2e2e" stroke-width="2"/>
-
-  <g transform="translate(72 58)">
-    <rect width="204" height="204" rx="42" fill="#121212" stroke="#343434" stroke-width="2"/>
-    <path d="M42 154C49 115 58 74 71 47C77 34 84 38 83 55L81 109C81 122 86 125 94 113L136 45C143 34 150 38 147 54L134 154" fill="none" stroke="#f5f5f5" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M43 153C50 114 59 75 72 49C78 38 82 40 82 57L80 110C80 124 87 128 97 115L138 47C143 39 147 41 145 55L133 152" fill="none" stroke="#f5f5f5" stroke-opacity=".34" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="158" cy="144" r="7.5" fill="#f5f5f5"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Masih Moafi — AI and machine learning engineer">
+  <rect x="1" y="1" width="1198" height="338" rx="28" fill="#121212" stroke="#2e2e2e" stroke-width="2"/>
 
   <g font-family="Inter, Arial, Helvetica, sans-serif">
-    <text x="328" y="116" fill="#f5f5f5" font-size="52" font-weight="700" letter-spacing="-1.5">Masih Moafi</text>
-    <text x="331" y="157" fill="#a8a8a8" font-size="21" font-weight="500" letter-spacing="1.2">AI / ML ENGINEER</text>
-    <line x1="331" y1="185" x2="1082" y2="185" stroke="#2e2e2e" stroke-width="2"/>
-    <text x="331" y="226" fill="#d4d4d4" font-size="19">Machine-learning systems, developer tools, and research.</text>
-    <text x="331" y="258" fill="#7f7f7f" font-size="16">Small systems · explicit boundaries · focused verification</text>
+    <text x="70" y="72" fill="#8f8f8f" font-size="15" font-weight="650" letter-spacing="3.2">MASIH MOAFI · AI / ML ENGINEER</text>
+
+    <text x="70" y="143" fill="#f5f5f5" font-size="48" font-weight="720" letter-spacing="-1.6">AI systems that keep</text>
+    <text x="70" y="196" fill="#f5f5f5" font-size="48" font-weight="720" letter-spacing="-1.6">the work moving.</text>
+
+    <text x="72" y="244" fill="#b8b8b8" font-size="18">Agents, developer tools, and applied machine-learning research.</text>
+    <text x="72" y="276" fill="#777777" font-size="15">Small systems · explicit boundaries · focused verification</text>
+
+    <line x1="760" y1="64" x2="760" y2="276" stroke="#2e2e2e" stroke-width="2"/>
+
+    <text x="810" y="99" fill="#777777" font-size="12" font-weight="650" letter-spacing="2.2">01 / AGENTS</text>
+    <text x="810" y="127" fill="#e5e5e5" font-size="18" font-weight="600">Context, continuity, retrieval</text>
+
+    <line x1="810" y1="153" x2="1128" y2="153" stroke="#292929" stroke-width="1.5"/>
+
+    <text x="810" y="187" fill="#777777" font-size="12" font-weight="650" letter-spacing="2.2">02 / TOOLS</text>
+    <text x="810" y="215" fill="#e5e5e5" font-size="18" font-weight="600">Less friction, clearer workflows</text>
+
+    <line x1="810" y1="241" x2="1128" y2="241" stroke="#292929" stroke-width="1.5"/>
+
+    <text x="810" y="275" fill="#777777" font-size="12" font-weight="650" letter-spacing="2.2">03 / RESEARCH</text>
+    <text x="810" y="303" fill="#e5e5e5" font-size="18" font-weight="600">Applied ML and AI security</text>
   </g>
 </svg>
