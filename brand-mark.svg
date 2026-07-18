@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="M. brand mark">
-  <rect width="256" height="256" rx="48" fill="#121212"/>
-  <path d="M52 190C61 142 72 91 88 58C96 42 105 47 104 68L101 135C101 151 107 154 117 139L169 55C178 41 187 46 184 66L168 190" fill="none" stroke="#f5f5f5" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M54 188C63 140 73 92 89 60C96 47 101 50 101 70L99 136C99 154 108 159 120 142L171 58C177 48 182 51 180 68L165 188" fill="none" stroke="#f5f5f5" stroke-opacity=".38" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="196" cy="178" r="9" fill="#f5f5f5"/>
-  <circle cx="198" cy="176" r="2.2" fill="#f5f5f5" fill-opacity=".38"/>
-</svg>
