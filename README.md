@@ -7,7 +7,8 @@
 [![Dev Tools](https://img.shields.io/badge/Dev%20Tools-CLI%20%7C%20TUI%20%7C%20Automation-9333EA?style=flat-square)](https://github.com/MasihMoafi/Elpis)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Builder-0F766E?style=flat-square&logo=github&logoColor=white)](https://github.com/MasihMoafi)
 
-<img src="profile-banner.jpg" alt="Masih Moafi — AI/ML Engineer, developer tools, and research" width="100%">
+<img width="1672" height="941" alt="masih" src="https://github.com/user-attachments/assets/d1e548b5-94ea-41a4-99ab-ac6933af03ea" />
+
 
 </div>
 
