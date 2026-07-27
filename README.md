@@ -7,7 +7,7 @@
 [![AI Safety](https://img.shields.io/badge/AI%20Safety-Research-16A34A?style=flat-square)](https://github.com/MasihMoafi/Eyes-Wide-Shut)
 [![Dev Tools](https://img.shields.io/badge/Dev%20Tools-9333EA?style=flat-square)](https://github.com/MasihMoafi/Elpis)
 
-<img width="1672" height="941" alt="masih" src="https://github.com/user-attachments/assets/6f60ab07-ec11-4f1a-89f3-9498ac15142a" />
+<img width="1672" height="941" alt="masih" src="https://github.com/user-attachments/assets/7e4e032b-9865-4d0b-9de3-848469827ea0" />
 
 </div>
 
