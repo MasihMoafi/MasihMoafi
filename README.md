@@ -1,11 +1,11 @@
 <div align="center">
 
 [![AI/ML Engineer](https://img.shields.io/badge/AI%2FML-Engineer-7C3AED?style=flat-square)](https://masihmoafi.com)
-[![Rust](https://img.shields.io/badge/Rust-Systems%20Engineering-EA580C?style=flat-square&logo=rust&logoColor=white)](https://github.com/MasihMoafi?tab=repositories)
-[![Python](https://img.shields.io/badge/Python-ML%20%26%20Automation-2563EB?style=flat-square&logo=python&logoColor=white)](https://github.com/MasihMoafi?tab=repositories)
-[![AI Safety](https://img.shields.io/badge/Research-AI%20Safety-16A34A?style=flat-square)](https://github.com/MasihMoafi/Eyes-Wide-Shut)
-[![Dev Tools](https://img.shields.io/badge/Dev%20Tools-CLI%20%7C%20TUI%20%7C%20Automation-9333EA?style=flat-square)](https://github.com/MasihMoafi/Elpis)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Builder-0F766E?style=flat-square&logo=github&logoColor=white)](https://github.com/MasihMoafi)
+[![Rust](https://img.shields.io/badge/Rust-EA580C?style=flat-square&logo=rust&logoColor=white)](https://github.com/MasihMoafi?tab=repositories)
+[![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white)](https://github.com/MasihMoafi?tab=repositories)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/MasihMoafi/gated-transformer-fx-signals)
+[![AI Safety](https://img.shields.io/badge/AI%20Safety-Research-16A34A?style=flat-square)](https://github.com/MasihMoafi/Eyes-Wide-Shut)
+[![Dev Tools](https://img.shields.io/badge/Dev%20Tools-9333EA?style=flat-square)](https://github.com/MasihMoafi/Elpis)
 
 <img width="1672" height="941" alt="masih" src="https://github.com/user-attachments/assets/e412c96e-df20-4eb7-9e91-c89d68f75940" />
 
