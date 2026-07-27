@@ -7,7 +7,7 @@
 [![Dev Tools](https://img.shields.io/badge/Dev%20Tools-CLI%20%7C%20TUI%20%7C%20Automation-9333EA?style=flat-square)](https://github.com/MasihMoafi/Elpis)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Builder-0F766E?style=flat-square&logo=github&logoColor=white)](https://github.com/MasihMoafi)
 
-<img width="1672" height="941" alt="masih" src="https://github.com/user-attachments/assets/10813651-3b66-4b25-8681-81f3c19e00c2" />
+<img width="1672" height="941" alt="masih" src="https://github.com/user-attachments/assets/e412c96e-df20-4eb7-9e91-c89d68f75940" />
 
 
 </div>
