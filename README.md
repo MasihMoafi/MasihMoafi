@@ -12,7 +12,7 @@
 
 </div>
 
-<p align="center"><strong><em>AI systems, machine-learning research, developer tools, and applied engineering work.</em></strong></p>
+<h3 align="center"><em>AI systems, machine-learning research, developer tools, and applied engineering work.</em></h3>
 
 ## Selected projects
 
