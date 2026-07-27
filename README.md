@@ -7,12 +7,12 @@
 [![Dev Tools](https://img.shields.io/badge/Dev%20Tools-CLI%20%7C%20TUI%20%7C%20Automation-9333EA?style=flat-square)](https://github.com/MasihMoafi/Elpis)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Builder-0F766E?style=flat-square&logo=github&logoColor=white)](https://github.com/MasihMoafi)
 
-<img width="1672" height="941" alt="masih" src="https://github.com/user-attachments/assets/d1e548b5-94ea-41a4-99ab-ac6933af03ea" />
+<img width="1672" height="941" alt="masih" src="https://github.com/user-attachments/assets/10813651-3b66-4b25-8681-81f3c19e00c2" />
 
 
 </div>
 
-AI systems, machine-learning research, developer tools, and applied engineering work.
+***AI systems, machine-learning research, developer tools, and applied engineering work.***
 
 ## Selected projects
 
