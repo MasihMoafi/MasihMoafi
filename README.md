@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:252525,100:141414&text=Masih%20Moafi&fontSize=42&fontAlign=50&fontAlignY=42&animation=twinkling&desc=AI/ML%20Engineer%20%C2%B7%20Dev%20Tools%20%C2%B7%20AI%20Safety&descSize=14&descAlignY=62&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:1f1f2e,100:11111b&text=Masih%20Moafi&fontSize=42&fontAlign=50&fontAlignY=42&animation=twinkling&desc=AI/ML%20Engineer%20%C2%B7%20Systems%20%26%20Dev%20Tools%20%C2%B7%20AI%20Safety&descSize=14&descAlignY=62&descAlign=50&stroke=7C3AED&strokeWidth=1" />
 
 <p align="center">
   <b>AI/ML Engineer · Systems & Dev Tools · AI Safety Research</b><br/>
@@ -26,22 +26,22 @@
 
 <div align="center">
     <a href="https://github.com/MasihMoafi/Elpis">
-      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MasihMoafi&repo=Elpis&theme=dark"></a>
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MasihMoafi&repo=Elpis&theme=tokyonight"></a>
     <a href="https://github.com/MasihMoafi/Voice-commander">
-      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MasihMoafi&repo=Voice-commander&theme=dark"></a>
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MasihMoafi&repo=Voice-commander&theme=tokyonight"></a>
     <a href="https://github.com/MasihMoafi/Eyes-Wide-Shut">
-      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MasihMoafi&repo=Eyes-Wide-Shut&theme=dark"></a>
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MasihMoafi&repo=Eyes-Wide-Shut&theme=tokyonight"></a>
     <a href="https://github.com/MasihMoafi/rag-mcp">
-      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MasihMoafi&repo=rag-mcp&theme=dark"></a>
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MasihMoafi&repo=rag-mcp&theme=tokyonight"></a>
     <a href="https://github.com/MasihMoafi/skills">
-      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MasihMoafi&repo=skills&theme=dark"></a>
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MasihMoafi&repo=skills&theme=tokyonight"></a>
 </div>
 
 ## > activity & metrics.
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MasihMoafi&theme=dark">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MasihMoafi&layout=compact&theme=dark">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MasihMoafi&theme=tokyonight">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MasihMoafi&layout=compact&theme=tokyonight">
 </div>
 
 ## > connect.
@@ -53,7 +53,8 @@
   <a href="mailto:masihmoafi12@gmail.com"><b>Email</b></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:141414,100:252525&text=building%20intelligent%20systems.&fontSize=28&fontAlign=75&fontAlignY=65&animation=twinkling&section=footer&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:11111b,100:1f1f2e&text=building%20intelligent%20systems.&fontSize=28&fontAlign=75&fontAlignY=65&animation=twinkling&section=footer&reversal=true" />
+
 
 
 
