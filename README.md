@@ -6,6 +6,7 @@
 
 [![AI/ML Engineer](https://img.shields.io/badge/AI%2FML-Engineer-7C3AED?style=flat-square)](https://masihmoafi.com)
 [![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white)](https://github.com/MasihMoafi?tab=repositories)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/MasihMoafi/gated-transformer-fx-signals)
 [![Rust](https://img.shields.io/badge/Rust-EA580C?style=flat-square&logo=rust&logoColor=white)](https://github.com/MasihMoafi/Elpis)
 [![AI Safety](https://img.shields.io/badge/AI%20Safety-Research-16A34A?style=flat-square)](https://github.com/MasihMoafi/Eyes-Wide-Shut)
 
