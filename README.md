@@ -14,6 +14,7 @@
 
 ## Selected work
 
+- [**rag-mcp**](https://github.com/MasihMoafi/rag-mcp) — Local semantic-search MCP server for coding agents, with reproducible retrieval evals and source-grounded results.
 - [**Elpis**](https://github.com/MasihMoafi/Elpis) — Coding-agent environment for controlled context, persistent memory, safe execution, and session continuity.
 - [**Eyes Wide Shut**](https://github.com/MasihMoafi/Eyes-Wide-Shut) — Empirical red-team study of five context- and representation-sensitive safety failure families in `gpt-oss-20b`.
 - [**Voice Commander**](https://github.com/MasihMoafi/Voice-commander) — Local GPU-accelerated voice-to-text pipeline using `whisper.cpp`, with optional Gemini refinement.
