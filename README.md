@@ -1,7 +1,7 @@
 <div align="center">
 
 # Masih Moafi
-
+## AI/ML Engineer | AI-Native Development, RAG in Production, AI-Performance Engineering, Data-intensive Applications
 ### Agent infrastructure, AI-safety research, and applied ML systems.
 
 [![AI/ML Engineer](https://img.shields.io/badge/AI%2FML-Engineer-7C3AED?style=flat-square)](https://masihmoafi.com)
