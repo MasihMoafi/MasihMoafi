@@ -15,6 +15,7 @@
 ## Selected work
 
 - [**Elpis**](https://github.com/MasihMoafi/Elpis) — Coding-agent environment for controlled context, persistent memory, safe execution, and session continuity.
+- [**Rustidian**](https://github.com/MasihMoafi/rustidian) — Obsidian, but fast. A native Rust Markdown notebook for Linux that opens Obsidian-format vaults; on the Snap Store. Independent, not affiliated with Obsidian.
 - [**Eyes Wide Shut**](https://github.com/MasihMoafi/Eyes-Wide-Shut) — Empirical red-team study of three context- and representation-sensitive safety findings in `gpt-oss-20b`.
 - [**rag-mcp**](https://github.com/MasihMoafi/rag-mcp) — Local semantic-search MCP server for coding agents, with reproducible retrieval evals and source-grounded results.
 - [**Gated Transformer FX Signals**](https://github.com/MasihMoafi/gated-transformer-fx-signals) — Experimental EUR/USD signal-prediction pipeline comparing a gated Transformer with tree baselines.
