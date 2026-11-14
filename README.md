@@ -14,12 +14,11 @@
 ## Selected work
 
 - [**Elpis**](https://github.com/MasihMoafi/Elpis) — Agent harness built on Codex, with a desktop app and a terminal app: a Context Ledger for what each agent sees, and agent teams ordered in waves by Kahn's algorithm.
+- [**rag-mcp**](https://github.com/MasihMoafi/rag-mcp) — Local semantic-search MCP server for coding agents, with reproducible retrieval evals and source-grounded results.
 - [**ChronosAttack**](https://github.com/MasihMoafi/ChronosAttack) — Preprint showing that delaying authentic tool results, without altering them, changes an LLM agent's decisions.
 - [**Order from the Top**](https://github.com/MasihMoafi/order-from-the-top) — Game-theory testbed where LLM agents live in family trees under a threat of mutual destruction (Apart Swarm Alignment Hackathon).
 - [**Rustidian**](https://github.com/MasihMoafi/rustidian) — A native Markdown notebook for Linux that opens Obsidian-format vaults. Independent, not affiliated with Obsidian.
-- [**SVG Studio**](https://svg.masihmoafi.com/) — A web app that traces artwork into editable SVG inside the browser, with eight SVG collections and an MCP server.
 - [**Eyes Wide Shut**](https://github.com/MasihMoafi/Eyes-Wide-Shut) — Empirical red-team study of three context- and representation-sensitive safety findings in `gpt-oss-20b`.
-- [**rag-mcp**](https://github.com/MasihMoafi/rag-mcp) — Local semantic-search MCP server for coding agents, with reproducible retrieval evals and source-grounded results.
 - [**Gated Transformer FX Signals**](https://github.com/MasihMoafi/gated-transformer-fx-signals) — Experimental EUR/USD signal-prediction pipeline comparing a gated Transformer with tree baselines.
 - [**WhisperType**](https://github.com/MasihMoafi/Voice-commander) — Local GPU-accelerated voice-to-text pipeline using `whisper.cpp`, with optional Gemini refinement.
 
